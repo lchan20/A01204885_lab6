@@ -5,12 +5,14 @@
     align-items: center;
   }
   
+  
   .container {
     height: 90vh;
   }
-
+  
   li:hover {
     cursor: pointer;
   }
   
+  /* the ul tag does not have a list-style-type */
   ul{ list-style-type: none; }
